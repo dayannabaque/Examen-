@@ -1,0 +1,75 @@
+{
+    "CLIENTES": [
+      {
+      "cedula" : "1213245643",
+        "apellidos": "Baque Lopez",
+        "nombres": "Dayanna Nicole",
+        "direccion": "Altagracia",
+        "telefono: "0980400629"
+     },
+  
+      {
+        "cedula" : "134564233",
+        "apellidos": "Ortiz Baque",
+        "nombres": "Romina",
+        "direccion": "Altagracia",
+        "telefono: "0980400629"
+     },
+    {
+        "cedula" : "1123938493",
+        "apellidos": "Intriago Vera",
+        "nombres": "Daniela isabel",
+        "direccion": "Altagracia",
+        "telefono: "0980400629"
+     },
+    {
+        "cedula" : "1213435673",
+        "apellidos": "Vera Mera",
+        "nombres": "Dayanna Nicole",
+        "direccion": "Altagracia",
+        "telefono: "0980400629"
+     },
+    {
+      "cedula" : "112323123",
+        "apellidos": "Baque Intriago",
+        "nombres": "Jose Gustavo",
+        "direccion": "Altagracia",
+        "telefono: "0980400629"
+     },
+    {
+      "cedula" : "11232349",
+        "apellidos": "Vinces Vinces",
+        "nombres": "Denys Maria",
+       "direccion": "Altagracia",
+        "telefono: "0980400629"
+     },
+    {
+      "cedula" : "12321234",
+        "apellidos": "Delgado Delgado",
+        "nombres": "Jomaira Andrea",
+        "direccion": "Altagracia",
+        "telefono: "0980400629"
+     },
+    {
+      "cedula" : "1929382922",
+        "apellidos": "Moreira Intriago",
+        "nombres": "Liz kimberly",
+        "direccion": "Altagracia",
+        "telefono: "0980400629"
+     },
+    {
+      "cedula" : "12019384722",
+        "apellidos": "Intriago Quijije",
+        "nombres": "Ariana Jailena",
+       "direccion": "Altagracia",
+        "telefono: "0980400629"
+     },
+    {
+      "cedula" : "1213243453",
+        "apellidos": "Intriago Intriago",
+        "nombres": "Carla Daniela",
+        "direccion": "Altagracia",
+        "telefono: "0980400629"
+     }
+      ]
+  }
